@@ -20,6 +20,10 @@ https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset/data
 
 <h1>Generator Architecture</h1>
 
+![generator_architecture](https://github.com/shy222/DSCI498-Final-Project/assets/111256553/d26de2f3-8f58-4483-9754-1e8a4aede2db)
+
+<h1>Discriminator Architecture</h1>
+
 ![discriminator_architecture](https://github.com/shy222/DSCI498-Final-Project/assets/111256553/c9e512c1-5298-4ab4-8073-875d7d351ea7)
 
 
