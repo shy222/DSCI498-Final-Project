@@ -19,7 +19,6 @@ https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset/data
 <b>User Interface Development</b>: Developed an interactive web application using Plotly Dash to showcase the generated hand gesture images, allowing users to input desired class labels and visualize the corresponding synthetic images in real-time.
 
 <h1>Generator Architecture</h1>
-![generator_architecture](https://github.com/shy222/DSCI498-Final-Project/assets/111256553/c700516e-2719-4f0c-af5f-27f70ed5034e)
 
 ![discriminator_architecture](https://github.com/shy222/DSCI498-Final-Project/assets/111256553/c9e512c1-5298-4ab4-8073-875d7d351ea7)
 
